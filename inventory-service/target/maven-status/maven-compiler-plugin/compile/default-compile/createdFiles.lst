@@ -1,0 +1,5 @@
+com\xrest\inventory_service\controller\InventoryController.class
+com\xrest\inventory_service\repository\InventoryRepository.class
+com\xrest\inventory_service\InventoryServiceApplication.class
+com\xrest\inventory_service\model\Inventory.class
+com\xrest\inventory_service\service\InventoryService.class

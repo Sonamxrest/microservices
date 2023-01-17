@@ -1,0 +1,11 @@
+com\xrest\productservice\dto\ProductResponseDto.class
+com\xrest\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\xrest\productservice\service\ProductService.class
+com\xrest\productservice\Model\Product.class
+com\xrest\productservice\Controller\ProductController.class
+com\xrest\productservice\dto\ProductRequest.class
+com\xrest\productservice\dto\ProductResponseDto$ProductResponseDtoBuilder.class
+com\xrest\productservice\Model\Product$ProductBuilder.class
+com\xrest\productservice\Repository\ProductRepository.class
+com\xrest\productservice\Model\BaseModel.class
+com\xrest\productservice\DemoApplication.class
